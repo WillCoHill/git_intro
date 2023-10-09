@@ -1,1 +1,4 @@
-"William Hill"
+"William Hill" 
+hillwi@oregonstate.edu
+green
+Paramore
